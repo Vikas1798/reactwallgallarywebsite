@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.images{
+    border: 2px solid black;
+    margin: 30px;
+    cursor: pointer;
+    box-shadow: 10px 8px 20px 10px #888888;
+     align-items: center;
+    }
+.images:hover{
+    box-shadow: 10px 8px 20px 10px rgb(111, 155, 212);
+  }
